@@ -5,8 +5,8 @@
 #### You can reach me at
 
 <a href="https://www.linkedin.com/in/rafaela-oliveira-809560199/">
-  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
-</a>
+  <code><img alt="My linkedin" width="28" src="https://www.linkedin.com/in/rafaela-oliveira-809560199/" /></code>
+</a>https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg
 
 ## My Development Stack
 
